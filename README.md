@@ -124,7 +124,7 @@ CRM 产品层通过自有接口调用 Agent 运行内核，数据库保存业务
 准备 Node.js 22+、pnpm，以及开发用 Supabase 和 Redis 配置。
 
 ```bash
-git clone https://github.com/lau0708/AiNativeCrm.git
+git clone https://github.com/lau0708/cross-border-crm.git
 cd AiNativeCrm
 pnpm install --frozen-lockfile
 
