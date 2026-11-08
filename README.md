@@ -87,9 +87,9 @@ CRM 产品层通过自有接口调用 Agent 运行内核，数据库保存业务
 
 ## 界面预览
 
-| WhatsApp 收件箱 | 商机案例列表 | 案例详情 |
+| WhatsApp 收件箱 | 商机看板 | 商机详情 |
 | --- | --- | --- |
-| ![WhatsApp 收件箱](docs/evidence/inbox-multimodal/inbox-multimodal-onda5-enviado-whatsapp.png) | ![商机案例列表](docs/evidence/casos-humanos/casos-humanos-lista.png) | ![案例详情](docs/evidence/casos-humanos/casos-humanos-detalhe.png) |
+| ![WhatsApp 收件箱](docs/screenshots/inbox-whatsapp.png) | ![商机看板](docs/screenshots/pipeline-shangji.png) | ![商机详情](docs/screenshots/lead-detalhe.png) |
 
 ## 平台能力
 
